@@ -1,1 +1,1 @@
-# SmallProject
+# NYC School Info App
